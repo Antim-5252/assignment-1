@@ -21,13 +21,13 @@ body {
   padding-left: 10px;
 }
 .heading-style {
-  font-size: 3em;
+  font-size: 3.25em;
 }
 .details-style {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .portion-color {
-  color: rgb(243, 173, 80);
+  color: tomato;
 }
 
 .btn-color {
